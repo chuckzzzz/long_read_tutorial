@@ -36,7 +36,7 @@ options:
 
 ----
 
-**Use minimap2 to map fastq files to reference **
+**Use minimap2 to map fastq files to reference**
 
 options:
 
@@ -47,7 +47,7 @@ options:
 
 ----
 
-**Use samtools to convert sam to bam and create corresponding index **
+**Use samtools to convert sam to bam and create corresponding index**
 
 `samtools view -bS mapped.sam > mapped.bam`
 
